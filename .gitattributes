@@ -1,2 +1,65 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html>
+ <head>
+	<title>Jay Gurudev</title>
+ </head>
+	<body background="C:\Users\SHARDUL\Pictures\pubg\Dslr.jpg">
+		<header>
+		 <strong><u> Master in Photography</u></strong>
+		 <p>
+		 	<img src="C:\Users\SHARDUL\Pictures\pubg\camera1.jpg" height="100px" width="100px" alt="Camera"/>
+		 </p>
+		  <nav>
+			<ul>
+				<li>Home</li>
+				<li>About us</li>
+				<li>Contact us</li>
+			</ul>
+		  </nav>
+		 </header>
+		<section>
+			<article>
+				<hgroup>
+				  <h2>Master in Photography</h2>
+				  <h3>by Shardul Chaudhar</h3>
+				 </hgroup>
+				<p align="center"> Photography is the art, application and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing (e.g., photolithography), and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication.
+				</p>
+				<img src="C:\Users\SHARDUL\Pictures\pubg\camera.jpeg" alt="Article image">
+			  
+            </article>
+            <hr>
+            <article>
+				<hgroup>
+				  <h2>Master in Photography</h2>
+				  <h3>by Shardul Chaudhar</h3>
+				 </hgroup>
+				<p> Photography is the art, application and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing (e.g., photolithography), and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication.
+				</p>
+			  <a <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">LINK</a>
+
+            </article>
+		</section>
+        
+        	<aside>
+        		<p>Camera Available <b>50% OFF</b> </p>
+        		  <a href="https://www.Amazon.in">BUY NOW</a>
+        		<p>
+        		   <a href=https://www.amazon.in/Canon-EOS-200D-II-55-250mm/dp/B07S26X16N/ref=gbph_img_m-1_48f9_80363470?smid=A14CZOWI0VEHLG&pf_rd_p=971b3ee3-e8ce-461a-a6b7-8967d28e48f9&pf_rd_s=merchandised-search-1&pf_rd_t=101&pf_rd_i=1388977031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_r=4HMRJ7VF9S6SG9PY0HM9>BUY NOW</a>
+        	    </p>
+        	
+        	
+        	</aside>
+		 <center>
+			<footer> 
+				<p>Copyright &copy; Master in Photography&trade; 2020</p>
+				<p>Made with &hearts; in <strong>INDIA</strong></p>
+				<p> <marquee><strong><mark>I Love India</mark></strong></marquee></p>
+		 	</footer>
+		 </center>
+			<hr>
+			<a href="http://www.google.com">Google</a>
+ </body>
+</html> 
